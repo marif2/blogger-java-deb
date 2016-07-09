@@ -69,7 +69,7 @@
     <distributionManagement>
         <snapshotRepository>
             <id>snapshots</id>
-            <url>http://localhost:8081/nexus/content/repositories/snapshots</url>
+            <url>http://jenkins.wipdios.com:8082/nexus/content/repositories/snapshots</url>
         </snapshotRepository>
     </distributionManagement>
 
