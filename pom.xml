@@ -67,10 +67,10 @@
         </plugins>
     </build>
     <distributionManagement>
-        <repository>
+        <snapshotsRepository>
             <id>nexus-snapshots</id>
-            <url>http://jenkins.wipdios.com:8082/nexus/content/repositories/releases/</url>
-        </repository>
+            <url>http://jenkins.wipdios.com:8082/nexus/content/repositories/snapshots/</url>
+        </snapshotsRepository>
     </distributionManagement>
 
 </project>
